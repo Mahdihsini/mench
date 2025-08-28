@@ -376,3 +376,4 @@ how to play
 play with me
 come and play with me
 good job
+nice to meet you
