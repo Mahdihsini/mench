@@ -373,7 +373,6 @@ export default function LudoAnimals() {
 nice to meet you
 let's play
 how to play
-play with me
 come and play with me
 good job
 nice to meet you
