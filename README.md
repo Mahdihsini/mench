@@ -48,7 +48,7 @@ export default function LudoAnimals() {
   const animalMap = useMemo(() => Object.fromEntries(ANIMALS.map(a => [a.id, a])), []);
 
   const reset = () => setState(createInitialState(playerCount));
-
+ok great
   const rollDice = () => {
     if (state.winner) return;
     const v = Math.floor(Math.random() * 6) + 1;
