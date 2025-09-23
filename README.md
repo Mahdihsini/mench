@@ -372,7 +372,6 @@ ok great
 }
 nice to meet you
 let's play
-how to play
 come and play with me
 good job
 nice to meet you
