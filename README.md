@@ -373,5 +373,3 @@ ok great
 nice to meet you
 let's play
 come and play with me
-good job
-
