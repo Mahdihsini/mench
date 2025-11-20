@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { motion } from "framer-motion";
-
+Posted my daily #Umi tweet ✅ ready for more XP!
 // --- تنظیمات اصلی بازی ---
 const TRACK_LENGTH = 40; // مسیر ساده‌شده (حلقه)
 const TOKENS_PER_PLAYER = 4;
